@@ -18,6 +18,7 @@
     <string name="new_label">New</string>
     <string name="settings_label">Settings</string>
     <string name="downloads_label">Downloads</string>
+    <string name="open_autodownload_settings">Open Settings</string>
     <string name="downloads_running_label">Running</string>
     <string name="downloads_completed_label">Completed</string>
     <string name="downloads_log_label">Log</string>
@@ -88,7 +89,9 @@
     <string name="author_label">Author(s)</string>
     <string name="language_label">Language</string>
     <string name="url_label">URL</string>
-    <string name="cover_label">Picture</string>
+    <string name="support_funding_label">Support</string>
+    <string name="support_podcast">Support this Podcast</string>
+    <string name="cover_label">Cover</string>
     <string name="error_label">Error</string>
     <string name="error_msg_prefix">An error occurred:</string>
     <string name="needs_storage_permission">Storage permission is needed for this operation</string>
@@ -97,6 +100,7 @@
     <string name="chapters_label">Chapters</string>
     <string name="chapter_duration">Duration: %1$s</string>
     <string name="description_label">Description</string>
+    <string name="shownotes_label">Shownotes</string>
     <string name="episodes_suffix">\u0020episodes</string>
     <string name="processing_label">Processing</string>
     <string name="close_label">Close</string>
@@ -563,7 +567,10 @@
     <string name="not_auto_downloaded">Not auto downloaded</string>
     <string name="kept_updated">Kept updated</string>
     <string name="not_kept_updated">Not kept updated</string>
+    <string name="new_episode_notification_enabled">Notification enabled</string>
+    <string name="new_episode_notification_disabled">Notification disabled</string>
     <string name="pref_feed_settings_dialog_msg">This setting is unique to each podcast. You can change it by opening the podcast page.</string>
+    <string name="pref_contribute">Contribute</string>
 
     <!-- About screen -->
     <string name="about_pref">About</string>
